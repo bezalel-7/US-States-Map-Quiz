@@ -1,8 +1,9 @@
 # US-States-Map-Quiz
-A simple game using python,you need to guess the correct states in USA.
+A simple game using python,you need to guess the states in USA.
+As you answer the correct states the turtle wirtes the name of the states in the loaction of state.
 
 ##controls 
-There will be a pop box for input your answer.
+There will be a pop box to input the answer.
 "Exit" --> to see the answers and location of states in the map.
 
 #score_and_states_to_learn
