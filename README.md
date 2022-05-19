@@ -15,13 +15,16 @@ Download the source code from the repository and run the file just as any other 
 ## Screenshots
 
 ![1](https://github.com/varadudi/US-States-Map-Quiz/blob/main/screenshot1.png)
-*GAME PLAY*
+
+                               *GAME PLAY*
 
 ![2](https://github.com/varadudi/US-States-Map-Quiz/blob/main/Screenshot2.png)
-*SCORECARD*
+
+                              *SCORECARD*
 
 ![3](https://github.com/varadudi/US-States-Map-Quiz/blob/main/Screenshot3.png)
-*TOTAL STATES*
+
+                             *TOTAL STATES*
 
 ## Prerequisites
 * [Python](https://www.python.org)
